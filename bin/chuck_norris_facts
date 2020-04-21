@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
-puts "HELLO WORLD"
+require_relative "../lib/chuck_norris_facts"
+
+ChuckNorrisFacts::CLI.new.start

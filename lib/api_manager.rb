@@ -1,0 +1,5 @@
+
+
+class ChuckNorrisFacts::ApiManager
+
+end

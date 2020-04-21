@@ -1,0 +1,5 @@
+
+
+class ChuckNorrisFacts::Facts
+
+end
